@@ -1,4 +1,4 @@
-### Muda-Cor-Color-flipper
+## Muda-Cor-Color-flipper
 
 #### Projeto de JavaScript básico que muda de cor
 
